@@ -1,0 +1,11 @@
+PieChart.css .pie-chart-container {
+  margin: 20px; /* Adjust the margin around the entire chart */
+  padding: 20px; /* Adjust the padding around the entire chart */
+}
+.apexcharts-legend-series {
+  margin-right: 18px !important;
+  font-family: Helvetica, Arial, sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 700 !important;
+  color: gray !important;
+}
